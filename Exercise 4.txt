@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+
+$name = 'Harry';
+var_dump($name);
+echo "<br>";
+echo $name . "<br>";
+echo "int" . "28"  . "<br>";
+echo "NULL"  . "<br>";
+;?>
+
+</body>
+</html>
